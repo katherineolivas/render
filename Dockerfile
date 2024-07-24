@@ -1,0 +1,1 @@
+FROM jewellcornett/dackerone:latest
